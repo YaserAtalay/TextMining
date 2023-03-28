@@ -1,2 +1,6 @@
 # TextMining
-Text mining
+
+* Basic String Operations
+* Textual Statements
+* Illustrating the textmodel
+* Text Visualization
